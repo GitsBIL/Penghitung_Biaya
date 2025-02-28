@@ -38,7 +38,7 @@ Penjelasan:
 
 ### Fungsi Main
 
-[!](/Gambar/gambar2.png)
+![Gambar](./Gambar/gambar1.png)
 
 Penjelasan:
 
