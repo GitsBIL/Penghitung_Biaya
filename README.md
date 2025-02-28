@@ -38,7 +38,7 @@ Penjelasan:
 
 ### Fungsi Main
 
-![Gambar](./Gambar/gambar1.png)
+![Gambar](./Gambar/gambar2.png)
 
 Penjelasan:
 
@@ -50,7 +50,7 @@ Penjelasan:
 
 ### Pemanggilan Fungsi Utama
 
-[!](/Gambar/gambar3.png)
+![Gambar](./Gambar/gambar3.png)
 
 Penjelasan:
 
@@ -60,4 +60,4 @@ Penjelasan:
 
 ## Contoh Output
 
-[!](/Gambar/gambar4.png)
+![Gambar](./Gambar/gambar4.png)
